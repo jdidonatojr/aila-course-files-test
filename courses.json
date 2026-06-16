@@ -856,5 +856,34 @@
         "startSlide": 69
       }
     ]
+  },
+  "26": {
+    "id": "digital_teammates",
+    "title": "Digital Teammates",
+    "totalSlides": 10,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/westfield-course-files/main/Digital-Teammates.pdf",
+    "firstMessage": "Welcome to Digital Teammates. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Vision (slides 1-3)",
+        "startSlide": 1
+      },
+      {
+        "label": "The Master Mind Principle (slides 4-5)",
+        "startSlide": 4
+      },
+      {
+        "label": "The Solution Framework (slides 6-7)",
+        "startSlide": 6
+      },
+      {
+        "label": "Market Application (slides 8-9)",
+        "startSlide": 8
+      },
+      {
+        "label": "Implementation and Status (slides 10-10)",
+        "startSlide": 10
+      }
+    ]
   }
 }
