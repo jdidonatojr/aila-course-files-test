@@ -5,6 +5,7 @@
     "totalSlides": 40,
     "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/aila-course-files-test/main/Reclaim-Your-Time-Use-Google-Gemini-to-Tackle-Daily-Tasks.pdf",
     "firstMessage": "Welcome to Reclaim Your Time   Use Google Gemini to Tackle Daily Tasks. Are you ready to begin?",
+    "profile": "Course Title: TEST Gemini Course\nTotal Slides: 40\nSECTION MAP:\n- Opening and Welcome (slides 1-3)\n- Introduction to Gemini (slides 4-15)\n- Brainstorming and Planning (slides 16-21)\n- Content Creation (slides 22-27)\n- Data Analysis (slides 28-33)\n- Hands-On Practice (slides 34-35)\n- Recap and Resources (slides 36-40)\nTEACHING NOTES:\n- The persona-task-format-context framework on slides 7-10 is the core of this course.\n- Emphasize the human-in-the-loop concept throughout.\n- Connect the five industry examples to learners' own industries.\n- Slides 35 and the Lab activity are where learning becomes real.",
     "sections": [
       {
         "label": "Opening and Welcome (slides 1-3)",
