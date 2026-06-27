@@ -886,5 +886,42 @@
         "startSlide": 10
       }
     ]
+  },
+  "27": {
+    "id": "02_an_introduction_to_the_clinical_trial_financial_suite",
+    "title": "02 An Introduction to the Clinical Trial Financial Suite",
+    "totalSlides": 24,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/westfield-course-files/main/02-An-Introduction-to-the-Clinical-Trial-Financial-Suite.pdf",
+    "firstMessage": "Welcome to 02 An Introduction to the Clinical Trial Financial Suite. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Business Context (slides 1-4)",
+        "startSlide": 1
+      },
+      {
+        "label": "Quality Standards and Examples (slides 5-6)",
+        "startSlide": 5
+      },
+      {
+        "label": "Guided Practice and Role-Play (slides 7-9)",
+        "startSlide": 7
+      },
+      {
+        "label": "Coaching and Application (slides 10-14)",
+        "startSlide": 10
+      },
+      {
+        "label": "Assessment and Standards (slides 15-17)",
+        "startSlide": 15
+      },
+      {
+        "label": "Transfer and Action Planning (slides 18-19)",
+        "startSlide": 18
+      },
+      {
+        "label": "Toolkit and Course Closure (slides 20-24)",
+        "startSlide": 20
+      }
+    ]
   }
 }
