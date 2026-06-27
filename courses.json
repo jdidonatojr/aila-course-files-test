@@ -923,5 +923,34 @@
         "startSlide": 20
       }
     ]
+  },
+  "28": {
+    "id": "an_introduction_to_the_clinical_trial_financial_suite",
+    "title": "An Introduction to the Clinical Trial Financial Suite",
+    "totalSlides": 24,
+    "pdfUrl": "https://raw.githubusercontent.com/jdidonatojr/westfield-course-files/main/An-Introduction-to-the-Clinical-Trial-Financial-Suite.pdf",
+    "firstMessage": "Welcome to An Introduction to the Clinical Trial Financial Suite. Are you ready to begin?",
+    "sections": [
+      {
+        "label": "Introduction and Overview (slides 1-5)",
+        "startSlide": 1
+      },
+      {
+        "label": "Site Payments Module (slides 6-10)",
+        "startSlide": 6
+      },
+      {
+        "label": "Integration and IT Module (slides 11-15)",
+        "startSlide": 11
+      },
+      {
+        "label": "ClinOps Outcomes Module (slides 16-20)",
+        "startSlide": 16
+      },
+      {
+        "label": "Positioning and Close (slides 21-24)",
+        "startSlide": 21
+      }
+    ]
   }
 }
