@@ -52,9 +52,10 @@
       }
     },
     "statement_light": {
-      "layout": "Divider 2026-07 - IQVIA",
+      "layout": "Divider 2026-06 - IQVIA",
       "ph": {
-        "title": 0
+        "title": 0,
+        "eyebrow": 1
       }
     },
     "bullets": {
