@@ -1,0 +1,113 @@
+{
+  "eyebrow_text": " ",
+  "copyright": "© 2026. All rights reserved. IQVIA® is a registered trademark of IQVIA Inc. in  the United States, the European Union, and various other countries.",
+  "copyright_on_layouts_named": [
+    "Cover"
+  ],
+  "footer_box_emu": [
+    384694,
+    6387858,
+    9285484,
+    338087
+  ],
+  "text_color_hex": "222222",
+  "kinds": {
+    "cover": {
+      "layout": "Cover 2026-01 - IQVIA",
+      "ph": {
+        "title": 0,
+        "subtitle": 11,
+        "eyebrow": 1,
+        "pic": 16,
+        "author": 17
+      }
+    },
+    "closing": {
+      "layout": "Closing 2026-01 - IQVIA",
+      "ph": {
+        "title": 0,
+        "pic": 14
+      }
+    },
+    "divider": {
+      "layout": "Divider 2026-02 - IQVIA",
+      "ph": {
+        "title": 0,
+        "eyebrow": 1,
+        "pic": 14
+      }
+    },
+    "image": {
+      "layout": "Divider 2026-03 - IQVIA",
+      "ph": {
+        "title": 0,
+        "eyebrow": 1,
+        "pic": 14
+      }
+    },
+    "statement": {
+      "layout": "Title Only - IQVIA",
+      "ph": {
+        "title": 0
+      }
+    },
+    "statement_light": {
+      "layout": "Title and Subhead_Only - IQVIA",
+      "ph": {
+        "title": 0,
+        "eyebrow": 16
+      }
+    },
+    "bullets": {
+      "layout": "Title and Content - IQVIA",
+      "ph": {
+        "title": 0,
+        "body": 1
+      }
+    },
+    "callout": {
+      "layout": "Title and Content_Callout Opt1 - IQVIA",
+      "ph": {
+        "title": 0,
+        "subhead": 16,
+        "body": 17,
+        "callout": 15
+      }
+    },
+    "two_col": {
+      "layout": "Two Column - IQVIA",
+      "ph": {
+        "title": 0,
+        "subhead": 16,
+        "cols": [
+          18,
+          19
+        ]
+      }
+    },
+    "three_col": {
+      "layout": "Three Column - IQVIA",
+      "ph": {
+        "title": 0,
+        "subhead": 16,
+        "cols": [
+          19,
+          21,
+          20
+        ]
+      }
+    },
+    "stat": {
+      "layout": "Three Column - IQVIA",
+      "ph": {
+        "title": 0,
+        "subhead": 16,
+        "cols": [
+          19,
+          21,
+          20
+        ]
+      }
+    }
+  }
+}
