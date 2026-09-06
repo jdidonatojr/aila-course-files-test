@@ -46,16 +46,15 @@
       }
     },
     "statement": {
-      "layout": "Title Only - IQVIA",
+      "layout": "Closing 2026-02 - IQVIA",
       "ph": {
         "title": 0
       }
     },
     "statement_light": {
-      "layout": "Title and Subhead_Only - IQVIA",
+      "layout": "Divider 2026-07 - IQVIA",
       "ph": {
-        "title": 0,
-        "eyebrow": 16
+        "title": 0
       }
     },
     "bullets": {
