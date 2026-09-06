@@ -1,0 +1,7 @@
+{
+  "IQVIA": {
+    "label": "IQVIA",
+    "file": "templates/IQVIA Color Template.pptx",
+    "map": "templates/IQVIA.map.json"
+  }
+}
