@@ -3,5 +3,10 @@
     "label": "IQVIA",
     "file": "templates/IQVIA Color Template.pptx",
     "map": "templates/IQVIA.map.json"
+  },
+  "IQVIA-test": {
+    "label": "IQVIA (test)",
+    "file": "templates/IQVIA-test.pptx",
+    "map": "templates/IQVIA-test.map.json"
   }
 }
